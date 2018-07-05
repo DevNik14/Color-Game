@@ -1,0 +1,19 @@
+{
+  "name": "colorgameproject",
+  "version": "1.0.0",
+  "description": "Simple color game",
+  "main": "colorGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevNik14/Color-Game.git"
+  },
+  "author": "DevNik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevNik14/Color-Game/issues"
+  },
+  "homepage": "https://github.com/DevNik14/Color-Game#readme"
+}
